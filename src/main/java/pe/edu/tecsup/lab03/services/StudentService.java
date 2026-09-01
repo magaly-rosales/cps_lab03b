@@ -5,4 +5,8 @@ public class StudentService {
     public String greet() {
         return "Hola desde StudentService";
     }
+    public void registrarEstudiante() {
+        System.out.println("Estudiante registrado");
+    }
+
 }
