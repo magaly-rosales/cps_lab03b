@@ -7,6 +7,7 @@ public class StudentService {
     }
     public void registrarEstudiante() {
         System.out.println("Estudiante registrado");
+        System.out.println("Proceso de registro finalizado");
     }
 
 }
